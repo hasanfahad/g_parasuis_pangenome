@@ -138,6 +138,14 @@ for file in combined_fasta/*.fasta; do
 done
 ```
 
+#### Create MLSA supermatrix using FASconCAT-G_v1.06.1.pl
+
+#### IQTree for calculating MLSA
+```
+iqtree -s mlsa_supermatrix.fas -m MFP -bb 1000 -nt AUTO
+```
+#### Visualization using iTOL (https://itol.embl.de/)
+
 ## Average Nucleotide Identity
 ANI analysis was performed to assess overall genomic similarity between strains and establish phylogenetic relationships.
 ### Tools Used
@@ -146,3 +154,26 @@ ANI analysis was performed to assess overall genomic similarity between strains 
 ```
 fastANI --ql ani_list.txt --rl ani_list.txt -t 32 -o all_vs_all_fastani_output.txt
 ```
+
+## Pangenome construction using Roary
+### Overview
+Roary was used to perform pan-genome analysis on 121 Glaesserella parasuis strains to:
+
+* Identify core, accessory, and unique genes
+* Generate gene presence/absence matrices
+* Perform phylogenetic analysis
+* Enable pan-GWAS studies for virulence traits
+
+### Tools used
+* Rorry v3.13.0
+
+### Command
+```
+roary -e -n -v -p 32 gff3/*.gff3
+```
+## Contact
+Created by Fahad Hasan <br>
+**PhD Student, Department of Genomics, Phenomics, and Bioinformatics** <br>
+North Dakota State University
+
+For questions about this pipeline, please contact [mdfahad.hasan@ndsu.edu]
