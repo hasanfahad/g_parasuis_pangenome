@@ -2,6 +2,17 @@
 ## Overview
 This repository contains the computational workflow and analysis methods used to characterize 121 Glaesserella parasuis strains through comprehensive genomic approaches.
 
+## Results
+
+### Multilocus Sequence Analysis (MLSA) Phylogeny tree
+<img width="5432" height="5432" alt="mlsa_tree2" src="https://github.com/user-attachments/assets/8c134eb0-5b85-4543-a9cd-13894490919f" />
+
+### Average Neucleotide Identity (ANI) Heatmap
+<img width="2400" height="1800" alt="ani_plot" src="https://github.com/user-attachments/assets/67be1ea3-4a2d-4fdb-b9be-2e4898d0fa6e" />
+<img width="2400" height="1800" alt="ani_plot_2" src="https://github.com/user-attachments/assets/af42d427-c64d-4e72-9023-c38f92f5ba43" />
+
+
+
 ## Dataset
 * **Species**: *Glaesserella parasuis*
 * **Number of Strains**: 121 (105 from NCBI Genbank, 16 from China National Genbank)
