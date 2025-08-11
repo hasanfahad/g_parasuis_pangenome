@@ -11,6 +11,21 @@ This repository contains the computational workflow and analysis methods used to
 <img width="2400" height="1800" alt="ani_plot" src="https://github.com/user-attachments/assets/67be1ea3-4a2d-4fdb-b9be-2e4898d0fa6e" />
 <img width="2400" height="1800" alt="ani_plot_2" src="https://github.com/user-attachments/assets/af42d427-c64d-4e72-9023-c38f92f5ba43" />
 
+### Principle Component Analysis (PCA) Plot
+<img width="3600" height="3600" alt="pca_plot" src="https://github.com/user-attachments/assets/e7bc886c-c54e-4107-88e5-8dccfbe80728" />
+
+
+### Pangenome Distribution for 121 Strains
+<img width="6000" height="4800" alt="pangenome_distribution" src="https://github.com/user-attachments/assets/431e8f0b-9b71-42c0-9bda-bbc698b109d0" />
+
+### Pangenome vs. Core Genome Dynamics
+<img width="4800" height="3600" alt="pan_v_core" src="https://github.com/user-attachments/assets/98718a5f-aa9a-43b7-84b5-919404488cd4" />
+
+### Pangenome Network Graph
+<img width="4800" height="3600" alt="network_plot" src="https://github.com/user-attachments/assets/eec9b9d2-4108-4546-8de2-212e26e4d32b" />
+<img width="4800" height="4800" alt="circular_plot" src="https://github.com/user-attachments/assets/2de74d74-f2ca-47bf-89d3-8863c4ccfc8f" />
+
+
 
 
 ## Dataset
