@@ -25,9 +25,6 @@ This repository contains the computational workflow and analysis methods used to
 <img width="4800" height="3600" alt="network_plot" src="https://github.com/user-attachments/assets/eec9b9d2-4108-4546-8de2-212e26e4d32b" />
 <img width="4800" height="4800" alt="circular_plot" src="https://github.com/user-attachments/assets/2de74d74-f2ca-47bf-89d3-8863c4ccfc8f" />
 
-
-
-
 ## Dataset
 * **Species**: *Glaesserella parasuis*
 * **Number of Strains**: 121 (105 from NCBI Genbank, 16 from China National Genbank)
